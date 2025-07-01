@@ -23,8 +23,6 @@ Demostrar la implementación de un sistema CRUD utilizando las mejores práctica
 | Maven          | 3.6+        | Gestión de dependencias              |
 | JDBC           | Nativo      | Conexión a base de datos             |
 | MySQL / H2     | 5.7 / 2.x   | Base de datos relacional             |
-| (Opcional) Spring Boot | 3.x   | Framework para desarrollo web        |
-| (Opcional) Swing / JavaFX | - | Interfaz gráfica de usuario         |
 
 ---
 
