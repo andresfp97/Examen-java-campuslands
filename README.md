@@ -1,7 +1,6 @@
 # Examen-java-campus
-# 🛠️ Proyecto CRUD en Java
 
-Este es un proyecto de ejemplo que implementa las operaciones básicas CRUD (Crear, Leer, Actualizar, Eliminar) utilizando Java. Ideal para aprender los fundamentos del desarrollo de backend o interfaces gráficas con Java.
+Este es un proyecto de ejemplo que implementa las operaciones básicas CRUD (Crear, Leer, Actualizar, Eliminar) utilizando Java. Ideal para aprender los fundamentos del desarrollo de backend o interfaces gráficas con Java, con una duracion de 3 horas.
 
 ---
 
